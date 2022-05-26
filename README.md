@@ -27,6 +27,8 @@ Storage Module for the pro user.
 
 _You are good to go!_
 
+![Swagger](./swagger.png)
+
 ## Prerequisites
 
 1. Install below packages
